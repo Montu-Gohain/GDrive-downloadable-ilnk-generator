@@ -6,7 +6,9 @@ const Footer = () => {
   return (
     <footer>
       <span>Created with 💗</span>
-      <a href='https://github.com/Montu-Gohain/GDrive-downloadable-ilnk-generator'>
+      <a
+        href='https://github.com/Montu-Gohain/GDrive-downloadable-ilnk-generator'
+        target='_blank'>
         <span>Source Code</span>
       </a>
     </footer>
