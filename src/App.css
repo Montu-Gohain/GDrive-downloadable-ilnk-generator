@@ -9,7 +9,6 @@
   flex-direction: column;
   justify-content: start;
   color: #fde047;
-  min-height: 100vh;
   overflow-y: hidden;
   margin-top: 50px;
 }
@@ -139,14 +138,10 @@ a {
   transform: translate(2px, 2px);
 }
 footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+  margin-top: 40vh;
   background-color: transparent;
   color: #fde047;
   text-align: center;
-  margin-bottom: 20px;
 }
 @media (min-width: 768px) {
   .generate-btn {
